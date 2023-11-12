@@ -9,4 +9,4 @@ I just wanted to improve my React JS skills so I watched a Youtube tutorial and 
 ## Social Media
 
 **You can find me on the following social media:**
-**[Instagram](discordapp.com/users/456152202281484317)**
+**[Instagram](https://www.instagram.com/fawad.___.1/)**
